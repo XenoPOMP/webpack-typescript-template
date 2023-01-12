@@ -1,0 +1,7 @@
+# Production
+dist/
+node_modules/
+
+# IDEs folders
+.idea/
+.vscode/
